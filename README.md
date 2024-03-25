@@ -3,7 +3,6 @@
 
 
 ![01 표지(지완)](https://github.com/goormthon-Univ/2024_BEOTKKOTTHON_TEAM_16_FE/assets/150661115/e29e30ca-ed8d-416f-9834-b473aabd5672)
-
 ![1](https://github.com/dani1552/2024_BEOTKKOTTHON_TEAM_16_FE/assets/150661115/899c09de-5282-4004-bb86-b6e181d5f3cb)
 ![2](https://github.com/dani1552/2024_BEOTKKOTTHON_TEAM_16_FE/assets/150661115/148abcaf-a724-45f6-ade7-0327b41d07bb)
 ![3](https://github.com/dani1552/2024_BEOTKKOTTHON_TEAM_16_FE/assets/150661115/e277c944-3d4a-4266-bd75-c0f041b753a0)
